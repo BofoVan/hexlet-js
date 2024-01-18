@@ -1,6 +1,6 @@
-import lodash from "lodash";
+import getLastMassiveChild from './src/index.js'
 
-console.log(lodash.last(["one", "two"]));
+console.log(getLastMassiveChild());
 
 
 
